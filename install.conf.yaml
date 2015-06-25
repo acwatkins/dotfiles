@@ -1,7 +1,6 @@
 - clean: ['~']
 
 - link:
-    ~/.dotfiles: ''
     ~/.oh-my-zsh: oh-my-zsh/ 
     ~/.tmux.conf: tmux.conf
     ~/.zshrc: zshrc
