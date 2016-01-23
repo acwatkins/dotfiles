@@ -80,5 +80,3 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 export PIP_EXTRA_INDEX_URL=http://fileserver.lan:3000/simple/
-
-tmux new-session -A -s main
